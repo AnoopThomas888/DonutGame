@@ -1,0 +1,51 @@
+body {
+    background-image: url(BG.JPG);
+    background-size: 1000px;
+    margin-left: 70px;
+    color: white;
+    text-align: center;
+
+}
+
+.autoclicker {
+    background-color: gray;
+}
+
+.donut-count {
+    border-radius: 70px;
+}
+
+img {
+    border-radius: 70px;
+
+}
+
+.shop-website {
+    color: orange;
+}
+
+.gameWebsite {
+    color: rgb(239, 127, 185);
+}
+
+.shop-website :hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.copyright {
+    text-align: left;
+    color: aqua;
+}
+
+h1 {
+    text-decoration: underline;
+
+}
+
+.contact {
+    color: greenyellow;
+    text-align: right;
+    justify-content: end;
+
+}
